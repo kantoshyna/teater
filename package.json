@@ -1,0 +1,24 @@
+{
+  "name": "teatr",
+  "version": "1.0.0",
+  "description": "just for fun",
+  "main": "(policemen.txt)",
+  "scripts": {
+    "precommit": "gh-pages -d ./"
+    "prepush": "npm test"
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kantoshyna/teater.git"
+  },
+  "keywords": [
+    "theatre"
+  ],
+  "author": "kate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kantoshyna/teater/issues"
+  },
+  "homepage": "https://github.com/kantoshyna/teater#readme"
+}
