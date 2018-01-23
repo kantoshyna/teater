@@ -4,9 +4,7 @@
   "description": "just for fun",
   "main": "(policemen.txt)",
   "scripts": {
-    "precommit": "gh-pages -d ./"
-    "prepush": "npm test"
-    "test": ""
+
   },
   "repository": {
     "type": "git",
